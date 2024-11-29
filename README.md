@@ -10,6 +10,4 @@
 ## Step 6: Update Blade Files
 ## Step 7: Config Template Layout
 ## Step 8: Add Route
-## Run Laravel App# laravel_jetstream_tailwind
-# laravel_jetstream_tailwind
-# laravel_jetstream_tailwind
+## Run Laravel App
